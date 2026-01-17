@@ -80,6 +80,12 @@ A curated list of MCP (Model Context Protocol) servers for research, academia, a
 |------|-------------|---------|-------|-------------|
 | [reclaim-mcp-server](https://github.com/universalamateur/reclaim-mcp-server) | Reclaim.ai integration | Free | ![stars](https://img.shields.io/github/stars/universalamateur/reclaim-mcp-server?style=flat) | *[@universalamateur](https://github.com/universalamateur)* |
 
+### Translation & Language
+
+| Name | Description | Pricing | Stars | Contributor |
+|------|-------------|---------|-------|-------------|
+| [xcomet-mcp-server](https://github.com/shuji-bonji/xcomet-mcp-server) | Translation quality evaluation | Free | ![stars](https://img.shields.io/github/stars/shuji-bonji/xcomet-mcp-server?style=flat) | *[@shuji-bonji](https://github.com/shuji-bonji)* |
+
 ---
 
 ## Contributing
