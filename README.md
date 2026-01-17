@@ -25,7 +25,7 @@ A curated list of MCP (Model Context Protocol) servers for research, academia, a
 
 | Name | Description | Pricing | Stars |
 |------|-------------|---------|-------|
-| [arXiv MCP](https://github.com/blazickjp/arxiv-mcp-server) | arXiv paper search and access | Free | ![GitHub stars](https://img.shields.io/github/stars/blazickjp/arxiv-mcp-server?style=flat) |
+| [arXiv MCP](https://github.com/blazickjp/arxiv-mcp-server) | arXiv paper search and analysis | Free | ![GitHub stars](https://img.shields.io/github/stars/blazickjp/arxiv-mcp-server?style=flat) |
 | [Semantic Scholar MCP](https://github.com/semantic-scholar/mcp-server) | Semantic Scholar paper search | Free | ![GitHub stars](https://img.shields.io/github/stars/semantic-scholar/mcp-server?style=flat) |
 | [PubMed MCP](https://github.com/ncbi/pubmed-mcp) | PubMed biomedical literature | Free | ![GitHub stars](https://img.shields.io/github/stars/ncbi/pubmed-mcp?style=flat) |
 | [Google Scholar MCP](https://github.com/nicobytes/scholar-mcp) | Google Scholar search | Free | ![GitHub stars](https://img.shields.io/github/stars/nicobytes/scholar-mcp?style=flat) |
@@ -56,6 +56,8 @@ A curated list of MCP (Model Context Protocol) servers for research, academia, a
 | Name | Description | Pricing | Stars |
 |------|-------------|---------|-------|
 | [Wikipedia MCP](https://github.com/nicobytes/wikipedia-mcp) | Wikipedia article access | Free | ![GitHub stars](https://img.shields.io/github/stars/nicobytes/wikipedia-mcp?style=flat) |
+| [Open Library MCP](https://github.com/8enSmith/mcp-open-library) | Book information search | Free | ![GitHub stars](https://img.shields.io/github/stars/8enSmith/mcp-open-library?style=flat) |
+| [Smithsonian MCP](https://github.com/molanojustin/smithsonian-mcp) | Smithsonian collections access | Free | ![GitHub stars](https://img.shields.io/github/stars/molanojustin/smithsonian-mcp?style=flat) |
 | [Wikidata MCP](https://github.com/wikidata/mcp-server) | Wikidata knowledge graph | Free | ![GitHub stars](https://img.shields.io/github/stars/wikidata/mcp-server?style=flat) |
 | [DBpedia MCP](https://github.com/dbpedia/mcp-server) | DBpedia structured data | Free | ![GitHub stars](https://img.shields.io/github/stars/dbpedia/mcp-server?style=flat) |
 | [Wolfram Alpha MCP](https://github.com/wolfram/mcp-server) | Wolfram computational knowledge | Freemium | ![GitHub stars](https://img.shields.io/github/stars/wolfram/mcp-server?style=flat) |
