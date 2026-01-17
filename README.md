@@ -14,6 +14,7 @@ A curated list of MCP (Model Context Protocol) servers for research, academia, a
 - [Web Research](#web-research)
 - [Knowledge Bases](#knowledge-bases)
 - [Code Documentation](#code-documentation)
+- [Community Contributions](#community-contributions) 🆕
 
 ---
 
@@ -52,6 +53,32 @@ A curated list of MCP (Model Context Protocol) servers for research, academia, a
 | Name | Description | Pricing | Stars |
 |------|-------------|---------|-------|
 | [Context7 MCP](https://github.com/upstash/context7) | Up-to-date code documentation for LLMs | Free | ![GitHub stars](https://img.shields.io/github/stars/upstash/context7?style=flat) |
+
+---
+
+## Community Contributions
+
+> 🙏 Thanks to these contributors who submitted their MCP servers!
+
+### Web Research
+
+| Name | Description | Pricing | Stars | Contributor |
+|------|-------------|---------|-------|-------------|
+| [domain-search-mcp](https://github.com/dorukardahan/domain-search-mcp) | Domain search MCP | Free | ![stars](https://img.shields.io/github/stars/dorukardahan/domain-search-mcp?style=flat) | *[@dorukardahan](https://github.com/dorukardahan)* |
+| [kagi-ken-mcp](https://github.com/czottmann/kagi-ken-mcp) | Kagi search integration | Free | ![stars](https://img.shields.io/github/stars/czottmann/kagi-ken-mcp?style=flat) | *[@czottmann](https://github.com/czottmann)* |
+
+### Knowledge Bases
+
+| Name | Description | Pricing | Stars | Contributor |
+|------|-------------|---------|-------|-------------|
+| [mediawiki-mcp-server](https://github.com/olgasafonova/mediawiki-mcp-server) | MediaWiki integration | Free | ![stars](https://img.shields.io/github/stars/olgasafonova/mediawiki-mcp-server?style=flat) | *[@olgasafonova](https://github.com/olgasafonova)* |
+| [pds-mcp-server](https://github.com/NASA-PDS/pds-mcp-server) | NASA Planetary Data System | Free | ![stars](https://img.shields.io/github/stars/NASA-PDS/pds-mcp-server?style=flat) | *[@tyleryy](https://github.com/tyleryy)* |
+
+### Data & Analytics
+
+| Name | Description | Pricing | Stars | Contributor |
+|------|-------------|---------|-------|-------------|
+| [reclaim-mcp-server](https://github.com/universalamateur/reclaim-mcp-server) | Reclaim.ai integration | Free | ![stars](https://img.shields.io/github/stars/universalamateur/reclaim-mcp-server?style=flat) | *[@universalamateur](https://github.com/universalamateur)* |
 
 ---
 
