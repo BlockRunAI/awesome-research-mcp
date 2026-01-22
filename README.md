@@ -34,6 +34,7 @@ A curated list of MCP (Model Context Protocol) servers for research, academia, a
 
 | Name | Description | Pricing | Stars |
 |------|-------------|---------|-------|
+| [Deep Research](https://github.com/u14app/deep-research) | Use any LLMs for deep research | Free | ![GitHub stars](https://img.shields.io/github/stars/u14app/deep-research?style=flat) |
 | [Firecrawl MCP](https://github.com/firecrawl/firecrawl-mcp-server) | Official web scraping and crawling | Freemium | ![GitHub stars](https://img.shields.io/github/stars/firecrawl/firecrawl-mcp-server?style=flat) |
 | [Exa MCP](https://github.com/exa-labs/exa-mcp-server) | Exa neural search for web search and crawling | Freemium | ![GitHub stars](https://img.shields.io/github/stars/exa-labs/exa-mcp-server?style=flat) |
 | [Brave Search MCP](https://github.com/brave/brave-search-mcp-server) | Brave Search API | Freemium | ![GitHub stars](https://img.shields.io/github/stars/brave/brave-search-mcp-server?style=flat) |
