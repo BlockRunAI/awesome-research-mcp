@@ -61,6 +61,8 @@ A curated list of MCP (Model Context Protocol) servers for research, academia, a
 | Name | Description | Pricing | Stars |
 |------|-------------|---------|-------|
 | [Context7 MCP](https://github.com/upstash/context7) | Up-to-date code documentation for LLMs | Freemium | ![GitHub stars](https://img.shields.io/github/stars/upstash/context7?style=flat) |
+| [DevDocs MCP](https://github.com/cyberagiinc/DevDocs) | Free UI-based tech documentation MCP | Free | ![GitHub stars](https://img.shields.io/github/stars/cyberagiinc/DevDocs?style=flat) |
+| [Microsoft Learn MCP](https://github.com/MicrosoftDocs/mcp) | Microsoft docs & code samples for LLMs | Free | ![GitHub stars](https://img.shields.io/github/stars/MicrosoftDocs/mcp?style=flat) |
 | [Docs MCP](https://github.com/arabold/docs-mcp-server) | Personal documentation knowledge base | Free | ![GitHub stars](https://img.shields.io/github/stars/arabold/docs-mcp-server?style=flat) |
 
 ---
